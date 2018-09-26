@@ -1,6 +1,7 @@
 #!/usr/bin/ksh
 
 # Run as root on the global servers in scope for upcoming disaster recovery tests.
+#
 
 DR=/export/home/ujxm108/DR
 HN=`hostname`
